@@ -109,6 +109,24 @@ const Projects = () => {
             Ver no Figma
           </ProjectLink>
         </ProjectCard>
+        <ProjectCard>
+          <ProjectImage src="/chick-hunger.png" alt="Projeto 5" />
+          <h3>Chick Hunger</h3>
+          <p>Jogo desenvolvido em Pygame para a disciplina de Laboratório de Programação de Computadores I</p>
+          <p>Tecnologias: Python</p>
+          <ProjectLink href="https://github.com/JoaoLucasCastroUEA/Chick-Hunger" target="_blank" rel="noopener noreferrer">
+            Ver no GitHub
+          </ProjectLink>
+        </ProjectCard>
+        <ProjectCard>
+          <ProjectImage src="/breakout.png" alt="Projeto 5" />
+          <h3>Remake do Jogo Breakout</h3>
+          <p>Releitura do jogo clássico Breakout em Pygame para a disciplina de Laboratório de Programação de Computadores I</p>
+          <p>Tecnologias: Python</p>
+          <ProjectLink href="https://github.com/RyanDaSilvaMarinho/breakout_pygame-" target="_blank" rel="noopener noreferrer">
+            Ver no GitHub
+          </ProjectLink>
+        </ProjectCard>
       </ProjectsGrid>
     </SectionContainer>
   );
