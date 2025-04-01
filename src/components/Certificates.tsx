@@ -68,7 +68,15 @@ const Certificates = () => {
   return (
     <SectionContainer id="certificates">
       <h2>Certificados</h2>
+      
       <CertificatesGrid>
+
+        <CertificateCard>
+          <CertificateImage src="/callidus.jpg" alt="Certificado Callidus" />
+          <CertificateTitle>Curso de Capacitação (Projeto Callidus)</CertificateTitle>
+          <CertificateInstitution>Universidade do Estado do Amazonas (UEA)</CertificateInstitution>
+        </CertificateCard>
+
         <CertificateCard>
           <CertificateImage src="/banco.jpg" alt="Certificado Banco de Dados" />
           <CertificateTitle>Implementando Banco de Dados</CertificateTitle>
