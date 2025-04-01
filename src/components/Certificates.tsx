@@ -45,8 +45,8 @@ const CertificateCard = styled.div`
 `;
 
 const CertificateImage = styled.img`
-  width: 100px;
-  height: 100px;
+  width: 100%;
+  height: 300px;
   object-fit: cover;
   border-radius: 8px;
   margin-bottom: 15px;

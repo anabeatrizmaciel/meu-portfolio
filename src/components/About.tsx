@@ -85,7 +85,7 @@ const About = () => {
             tanto no front-end quanto no back-end, além de ter interesse em Web Design. Estou sempre em busca de novos desafios e oportunidades para crescer, aprendendo constantemente ao longo do caminho.
           </p>
           <p>
-            Atualmente, sou bolsista de P&D e atuo como desenvolvedora full-stack e Product Owner na Academia Callidus, trabalhando em um projeto de manutenção preditiva com IA, aplicando machine learning e análise de dados para otimizar processos e evitar falhas.
+            Atuei como bolsista de P&D na Academia Callidus, onde trabalhei como Desenvolvedora Full-stack e Product Owner em um software de manutenção preditiva com IA chamado PrevIA, aplicando machine learning e análise de dados para otimizar processos e evitar falhas.
           </p>
         </AboutText>
       </AboutTextWrapper>
