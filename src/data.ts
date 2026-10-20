@@ -38,9 +38,10 @@ export const projects: Project[] = [
     note: 'Projeto acadêmico · protótipo criado por mim',
   },
   {
-    id: 'semish', title: 'O custo emocional do erro', kicker: 'UX Research · IHC · IA responsável', year: '2026',
+    id: 'semish', title: 'Avaliação Human-Centered de Sistemas de Recomendação Baseados em IA: Uma Análise Comparativa entre Domínios', kicker: 'UX Research · IHC · IA responsável', year: '2026',
     summary: 'Avaliação human-centered de sistemas de recomendação do Spotify e Duolingo, com RE4HCAI e mapas de empatia. Investigação de transparência, autonomia, explicabilidade e impactos das recomendações inadequadas.',
     type: 'ux', tags: ['UX Research', 'RE4HCAI', 'Mapas de empatia', 'IHC'], featured: true,
+    url: 'https://sol.sbc.org.br/index.php/semish/article/view/43504', urlLabel: 'Ver artigo completo',
     note: 'Artigo completo apresentado no SEMISH 2026 · selecionado para convite à edição especial da JBCS',
   },
   {
